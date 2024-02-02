@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100%;
+    background-image: linear-gradient(to top, #8f7ac0 0%, #fbc2eb 100%);
+}
+
+.container {
+    height: 100vh;
+}
+
+.meme_slideshow {
+    border-radius: 15px;
+    box-shadow: 0 0 0 2px rgb(24, 220, 47), 8px 8px 0 0 rgb(78, 220, 12);
+
+}
+
+.heading {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: rgb(24, 220, 47);
+}
